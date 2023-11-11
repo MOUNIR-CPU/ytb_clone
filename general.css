@@ -1,0 +1,12 @@
+/** these are some css properties that i've used to in all the pages **/
+
+
+body {
+    margin: 0;
+    padding-bottom: 10000px;
+    
+}
+
+p {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
